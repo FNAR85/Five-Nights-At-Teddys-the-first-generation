@@ -1,11 +1,5 @@
-V11.50 now out!
+V11.51 now out!
 
-should be the last version of this game 
+had to make it a .rar file because it was to big
 
-new telephone call 
-
-updated mobile port 
-
-sounds for radio and cassette
-
-quality of life changes 
+hopefully last version
