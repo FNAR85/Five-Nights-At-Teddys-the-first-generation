@@ -1,5 +1,11 @@
-V11.41 now out!
+V11.50 now out!
 
-just improved some bugs and made a few quality of life changes
+should be the last version of this game 
 
-download 10.00 for a OG experience 
+new telephone call 
+
+updated mobile port 
+
+sounds for radio and cassette
+
+quality of life changes 
